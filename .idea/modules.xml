@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CJump.iml" filepath="$PROJECT_DIR$/CJump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cjump/cjump.iml" filepath="$PROJECT_DIR$/cjump/cjump.iml" />
+    </modules>
+  </component>
+</project>
